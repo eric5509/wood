@@ -12,6 +12,13 @@ const config: Config = {
         background: "var(--background)",
         foreground: "var(--foreground)",
       },
+      fontSize:{
+        "10": "10px",
+        "11": "11px",
+        "13": "13px",
+        "15": "15px",
+        "17": "1px",
+      }
     },
   },
   plugins: [],
